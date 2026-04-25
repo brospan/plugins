@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "onchainos-cli": {
+      "command": "onchainos",
+      "args": [
+        "mcp"
+      ]
+    }
+  }
+}
